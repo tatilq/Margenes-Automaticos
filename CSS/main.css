@@ -1,21 +1,22 @@
-div{
-	width: 200px;
-	height: 250px;
-	border: 2px solid orange;
-	padding: 20px; 10px;
+
+p{
+
+	border: 15px solid yellow ;
+	padding: 30px;
 	background-color: white;
-	margin: 10px;
 	display: block;
+
+	
 }
-	.tres{
-		padding: 10px;
-		margin: 0px;
+	.uno{
+		margin-right: 1000px;
+		text-align: center;
+
 
 	}
-
-
-	.cuatro{
-		padding: 0px;
-		margin: 0px;
+	.dos{
+		margin-left: 600px;
+		margin-right: 400px;
+		text-align: left;
 
 	}
